@@ -30,7 +30,7 @@ function staticLoadPlaces() {
 var models = [
     {
         url: './Assets/bear.gltf',
-        scale: '0.1 0.1 0.1',
+        scale: '1 1 1',
         position: '1 1.5 -3.5',
     },
 ];
